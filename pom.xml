@@ -192,7 +192,7 @@ under the License.
                     <!-- Create the property $buildNumber holding the current Git revision -->
                     <groupId>org.codehaus.mojo</groupId>
                     <artifactId>buildnumber-maven-plugin</artifactId>
-                    <version>1.3</version>
+                    <version>1.4</version>
                     <executions>
                         <execution>
                             <phase>validate</phase>
