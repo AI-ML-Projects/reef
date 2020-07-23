@@ -67,7 +67,7 @@ under the License.
         <jsr305.version>3.0.1</jsr305.version>
         <kryo.version>3.0.3</kryo.version>
         <kryo-serializers.version>0.37</kryo-serializers.version>
-        <fast-classpath-scanner.version>2.4.5</fast-classpath-scanner.version>
+        <fast-classpath-scanner.version>3.1.15</fast-classpath-scanner.version>
         <maven.assembly>3.1.0</maven.assembly>
         <grpc.version>1.26.0</grpc.version><!-- CURRENT_GRPC_VERSION -->
         <guava.version>20.0</guava.version>
