@@ -64,7 +64,7 @@ under the License.
         <checkstyle.version>8.29</checkstyle.version>
         <spotbugs.version>3.1.12.2</spotbugs.version>
         <reflections.version>0.9.9-RC1</reflections.version>
-        <jsr305.version>3.0.1</jsr305.version>
+        <jsr305.version>3.0.2</jsr305.version>
         <kryo.version>3.0.3</kryo.version>
         <kryo-serializers.version>0.37</kryo-serializers.version>
         <fast-classpath-scanner.version>2.4.5</fast-classpath-scanner.version>
