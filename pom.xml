@@ -57,7 +57,7 @@ under the License.
         <jetty.version>6.1.26</jetty.version>
         <netty.version>4.1.42.Final</netty.version>
         <httpclient.version>4.5.6</httpclient.version>
-        <jackson.version>2.10.2</jackson.version>
+        <jackson.version>2.12.3</jackson.version>
         <protobuf.version>2.5.0</protobuf.version>
         <maven-checkstyle-plugin.version>3.1.0</maven-checkstyle-plugin.version>
         <sevntu.checkstyle.plugin.version>1.35.0</sevntu.checkstyle.plugin.version>
