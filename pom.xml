@@ -791,13 +791,13 @@ under the License.
                 <artifactId>azure-batch</artifactId>
                 <version>3.0.0</version>
             </dependency>
-                 
+
             <!-- asm -->
             <dependency>
                 <groupId>org.ow2.asm</groupId>
                 <artifactId>asm</artifactId>
                 <version>${asm.version}</version>
-                </dependency>       
+                </dependency>
             </dependencies>
     </dependencyManagement>
 
